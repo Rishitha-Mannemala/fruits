@@ -5,3 +5,5 @@
 - Orange
 - Banana
 - Mango
+- Custard Apple
+- Rambutan 
