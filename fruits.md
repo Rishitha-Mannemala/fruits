@@ -9,3 +9,6 @@
 - Grapes
 - Snake fruit
 - Longan
+- Custard Apple
+- Rambutan 
+- WaterMelon
